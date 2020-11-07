@@ -32,3 +32,4 @@ jobs:
         app-name: 'cmsarticleproject'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_45daf71fc42443558a3bb8ce54d7ea5a }}
+      
